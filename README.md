@@ -11,7 +11,8 @@ We can up with this idea after thinking about how society doesn't talk about how
 - Coded in HTML and CSS
 
 ## Accomplishments that we're proud of
-- Learning how hackathons work
+- Participating in a mini-hackathon!
+- building a website from scratch in a couple hours
 - Building a dropdown navigation bar
 - Winning first place! 🏆
 
