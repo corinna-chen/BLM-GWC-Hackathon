@@ -1,0 +1,210 @@
+
+.heading{
+    margins: 0;
+    text-align:center;
+    padding: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 110px;
+    color: cadetblue;
+    margin: 1px;
+    background-color:  #e0ebeb;
+   text-shadow: 2px 2px rgb(41, 85, 87);
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.dropdown .regiondd {
+  font-size: 20px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.navbar a:hover, .dropdown:hover .neddb {
+  background-color: cadetblue;
+}
+
+.regiondd a:hover, .dropdown:hover {
+  background-color: cadetblue
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color:#64C0C6;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.content {
+    flex-wrap: flex;
+    padding: 0px 2px;
+    text-align: center;
+}
+
+h2{
+    font-family:'Bebas Neue', cursive;
+    color: cadetblue;
+}
+
+h3{
+    font-family:'Bebas Neue', cursive;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Benne', serif;
+}
+
+.art_news{
+    border-color: cadetblue;
+    border-style: solid;
+    background-color:  #f0f5f5
+}
+
+.call_reps_news{
+    border-color: cadetblue;
+    border-style: solid;
+    background-color:  #f0f5f5
+}
+
+.noble_prize_news{
+    border-color: cadetblue;
+    border-style: solid;
+    background-color:  #f0f5f5
+}
+
+.websites {
+    border-color: cadetblue;
+    border-style: solid
+    background-color:  #f0f5f5
+}
+
+.petitions{
+    border-color: cadetblue;
+    border-style: solid;
+    text-align: left;
+    background-color:  #f0f5f5
+}
+
+.tschools{
+    text-align: center;
+    color: darkblue; 
+}
+.gf {
+    text-align: center;
+    color: lightsteelblue;
+}
+
+body {
+  text-align: center;
+}
+
+.BreonnaTaylor{
+    font-size: 18px;
+    color: deepskyblue;
+    padding: 10px 30px;
+}
+
+.arizona{
+    font-size: 18px;
+    color: rgb(77, 143, 219);
+    padding: 10px 30px;
+}
+
+/* old nav bar
+.hornavbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    top:0;
+    width:100%;
+    font-size: 20px;
+}
+
+.hornavbar li {
+  float: left;
+}
+
+.hornavbar li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.hornavbar li a:hover{
+  background-color: #111;
+}
+
+
+.vernavbar ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  background-color: #333;
+  height:100%;
+  overflow: auto;
+  font-size: 20px;
+}
+
+.vernavbar li a {
+  display:block;
+  color: white;
+  padding: 15px 20px;
+  text-decoration:none; 
+}
+
+.vernavbar {
+  width:20%;
+  float:left;
+  margin:1px;
+}
+
+.vernavbar li a:hover{
+  background-color: #111;
+}
+*/
