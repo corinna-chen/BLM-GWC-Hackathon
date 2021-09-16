@@ -14,3 +14,6 @@ We can up with this idea after thinking about how society doesn't talk about how
 - Learning how hackathons work
 - Building a dropdown navigation bar
 - Winning first place! 🏆
+
+## Try it out
+https://BLMHACKATHON.corinnachen19.repl.co
